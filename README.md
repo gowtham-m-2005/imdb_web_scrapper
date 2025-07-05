@@ -1,5 +1,5 @@
 # imdb_web_scrapper
-A Python web scraper that extracts key movie details from an IMDb list page using requests and BeautifulSoup.
+This project is a Python-based web scraper that extracts structured movie information from IMDb list pages. It uses requests and BeautifulSoup for HTML parsing and pandas for data manipulation and storage. The goal is to automate data collection for film datasets, which can be used for analytics, recommendation systems, or content databases.
 This project collects:
 
     Movie Title
